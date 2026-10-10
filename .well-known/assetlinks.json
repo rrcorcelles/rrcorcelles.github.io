@@ -10,5 +10,17 @@
         "BE:4F:48:9C:46:0A:38:EF:CA:9D:D0:A4:99:0D:B4:0F:69:8E:9D:04:63:3F:5A:58:17:A0:45:5E:83:51:7C:5F"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.puntopeak.demo",
+      "sha256_cert_fingerprints": [
+        "BE:4F:48:9C:46:0A:38:EF:CA:9D:D0:A4:99:0D:B4:0F:69:8E:9D:04:63:3F:5A:58:17:A0:45:5E:83:51:7C:5F"
+      ]
+    }
   }
 ]
